@@ -1,0 +1,27 @@
+Halo wibu,
+
+Terima kasih telah mendaftar di PMB Universitas Kita.
+
+DATA PENDAFTARAN:
+Nomor KK: 0987654321234567
+Nomor Tes: PMB20260016
+Nama Lengkap: wibu
+Tanggal Lahir: 01-02-1998
+Jenis Kelamin: Laki-laki
+Nama Orang Tua: bawang 
+Alamat: kaligede
+Program Studi: Sistem Informasi
+
+Kata Motivasi Anda:
+"naon"
+
+KODE VERIFIKASI: 363470
+
+Silakan login dengan:
+Nomor Tes: PMB20260016
+Password: (yang Anda buat)
+
+Harap verifikasi akun Anda dengan memasukkan kode di halaman verifikasi.
+
+Salam,
+Panitia PMB Universitas Kita

@@ -1,0 +1,16 @@
+Halo STEVAN RIZKY AL-QARNI,
+
+Terima kasih telah mendaftar di PMB Universitas Kita.
+
+NOMOR TES ANDA: PMB20260001
+KODE VERIFIKASI: 932913
+
+Silakan login dengan:
+Nomor Tes: PMB20260001
+Password: (yang Anda buat)
+
+Atau klik link verifikasi:
+http://localhost/pmb/verifikasi.php?email=stevantachibana.alqarni%40gmail.com&kode=932913
+
+Salam,
+Panitia PMB Universitas Kita

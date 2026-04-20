@@ -1,0 +1,22 @@
+Halo MIKu,
+
+Terima kasih telah mendaftar di PMB Universitas Kita.
+
+DATA PENDAFTARAN:
+Nomor Tes: PMB20260003
+Nama Lengkap: MIKu
+Tanggal Lahir: 26-01-2007
+Jenis Kelamin: Perempuan
+Nama Orang Tua: bambank
+Program Studi: Teknik Informatika
+
+KODE VERIFIKASI: 351757
+
+Silakan login dengan:
+Nomor Tes: PMB20260003
+Password: (yang Anda buat)
+
+Harap verifikasi akun Anda dengan memasukkan kode di halaman verifikasi.
+
+Salam,
+Panitia PMB Universitas Kita
